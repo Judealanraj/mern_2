@@ -1,0 +1,17 @@
+# Ignore env files everywhere
+*.env
+
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Build folders
+client/build/
+server/build/
+client/dist/
+server/dist/
+
+# Logs
+*.log
+
+
